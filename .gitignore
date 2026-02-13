@@ -1,0 +1,48 @@
+# ======================
+# Dataset (Very Large)
+# ======================
+dataset/
+
+# ======================
+# Virtual Environments
+# ======================
+env/
+morphenv/
+venv/
+ENV/
+
+# ======================
+# Python cache files
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# Model Weights
+# ======================
+*.pth
+*.pt
+*.h5
+
+# ======================
+# Uploaded files
+# ======================
+static/uploads/
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# VS Code settings
+# ======================
+.vscode/
+
+# ======================
+# Temporary files
+# ======================
+tempCodeRunnerFile.py
