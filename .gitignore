@@ -10,6 +10,7 @@ env/
 morphenv/
 venv/
 ENV/
+.env
 
 # ======================
 # Python cache files
